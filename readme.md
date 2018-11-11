@@ -13,20 +13,19 @@
 
 ---
 
-## explain 🀄️
+## explain ✅
 
 <!-- doc-templite START generated -->
 <!-- time = 'true' -->
 <!-- name = 'justjavac' -->
 <!-- repo = 'dvm' -->
 <!-- commit = 'true' -->
-
-| 版本     | 与日期  | 最新更新   | 更多               |
-| -------- | ------- | ---------- | ------------------ |
-| [commit] | ⏰ true | ![version] | [源码解释][source] |
+版本 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ true | ![version] | [源码解释][source]
 
 [commit]: https://github.com/justjavac/dvm/tree/true
-[version]: https://img.shields.io/npm/v/dvm.svg
+[version]: https://img.shields.io/github/last-commit/justjavac/dvm.svg
 
 <!-- doc-templite END generated -->
 
@@ -56,4 +55,4 @@
 
 ### bin/dvm.js
 
-- [ ] [bin/dvm.js](./bin/dvm.md)
+- [x] [bin/dvm.js](./bin/dvm.md)
